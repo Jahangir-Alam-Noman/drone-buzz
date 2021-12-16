@@ -1,0 +1,12 @@
+.not_found{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.not_found h1{
+    font-size: 150px;
+}
+.not_found h3{
+    font-size: 50px;
+}
